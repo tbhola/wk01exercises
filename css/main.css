@@ -1,0 +1,29 @@
+ul{
+  background-color: blue;
+  display: flex;
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.box{
+  display: inline-block;
+  width: 40%;
+}
+
+img{
+  width: 60%;
+}
+
+.html{
+  background-color: #2BA8E0;
+}
+
+.css{
+  background-color: #EE6526;
+}
+
+body{
+  text-align: center;
+}
